@@ -1,3 +1,9 @@
+> **9base status: Preserved.** Preserved reference fork of [Basile Starynkevitch’s Bismon](https://github.com/bstarynk/bismon), a persistent GCC-oriented source-analysis monitor. No 9base-specific branch development was established: before documentation curation, `master` had zero ahead commits and was one behind upstream. This copy is no longer maintained by 9base. Upstream research credits, funding acknowledgements and build documentation remain below.
+>
+> Documentation reconstructed from repository history on 8 October 2026.
+
+---
+
 <!-- file README.md -->
 
 # Overview and philosophy #
